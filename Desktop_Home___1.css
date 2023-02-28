@@ -1,0 +1,396 @@
+.mediaViewInfo {
+	--web-view-name: Desktop-Home – 1;
+	--web-view-id: Desktop-Home__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Desktop-Home__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Desktop-Home__1 {
+	position: absolute;
+	width: 1920px;
+	height: 2160px;
+	background-color: rgba(254,254,254,1);
+	overflow: hidden;
+	--web-view-name: Desktop-Home – 1;
+	--web-view-id: Desktop-Home__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#profile {
+	position: absolute;
+	width: 1499px;
+	height: 720px;
+	left: 280px;
+	top: 199px;
+	overflow: visible;
+}
+#n_______22__________torosancon {
+	left: 660px;
+	top: 247px;
+	position: absolute;
+	overflow: visible;
+	width: 840px;
+	white-space: nowrap;
+	line-height: 83px;
+	margin-top: -15.5px;
+	text-align: left;
+	font-family: Yu Gothic UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 52px;
+	color: rgba(255,145,0,1);
+}
+#toro3 {
+	position: absolute;
+	width: 546px;
+	height: 546px;
+	left: 46px;
+	top: 174px;
+	overflow: visible;
+}
+#Profile_r {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 337px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: HGPGothicM;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 120px;
+	color: rgba(255,145,0,1);
+	letter-spacing: 0.2px;
+}
+#Skills {
+	left: 280px;
+	top: 1099px;
+	position: absolute;
+	overflow: visible;
+	width: 263px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: HGPGothicM;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 120px;
+	color: rgba(0,220,255,1);
+	letter-spacing: 0.2px;
+}
+#computer_screen_programming {
+	position: absolute;
+	width: 473px;
+	height: 473px;
+	left: 389px;
+	top: 1364px;
+	overflow: visible;
+}
+#video_camera {
+	position: absolute;
+	width: 473px;
+	height: 473px;
+	left: 1058px;
+	top: 1364px;
+	overflow: visible;
+}
+#Button_Programming {
+	position: absolute;
+	width: 364px;
+	height: 80px;
+	left: 442px;
+	top: 1882px;
+	overflow: visible;
+}
+#n_2 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_2 {
+	filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 382px;
+	height: 98px;
+	left: 0px;
+	top: 0px;
+}
+#Text {
+	left: 101px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 163px;
+	white-space: nowrap;
+	line-height: 80px;
+	margin-top: -19px;
+	text-align: left;
+	font-family: Yu Gothic UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 42px;
+	color: rgba(112,112,112,1);
+}
+#Button_Video {
+	position: absolute;
+	width: 364px;
+	height: 80px;
+	left: 1114px;
+	top: 1882px;
+	overflow: visible;
+}
+#n_2_z {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_2_z {
+	filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 382px;
+	height: 98px;
+	left: 0px;
+	top: 0px;
+}
+#Text_ {
+	left: 101px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 163px;
+	white-space: nowrap;
+	line-height: 80px;
+	margin-top: -19px;
+	text-align: left;
+	font-family: Yu Gothic UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 42px;
+	color: rgba(112,112,112,1);
+}
+#n_1 {
+	fill: transparent;
+	stroke: rgba(255,144,0,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_1 {
+	mix-blend-mode: darken;
+	overflow: visible;
+	position: absolute;
+	width: 1641px;
+	height: 3px;
+	left: 141px;
+	top: 1014px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Text_ba {
+	left: 498px;
+	top: 1279px;
+	position: absolute;
+	overflow: visible;
+	width: 253px;
+	white-space: nowrap;
+	line-height: 80px;
+	margin-top: -15px;
+	text-align: left;
+	font-family: Yu Gothic UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(112,112,112,1);
+}
+#Text_bb {
+	left: 1192px;
+	top: 1280px;
+	position: absolute;
+	overflow: visible;
+	width: 201px;
+	white-space: nowrap;
+	line-height: 80px;
+	margin-top: -15px;
+	text-align: left;
+	font-family: Yu Gothic UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(112,112,112,1);
+}
+#header {
+	position: absolute;
+	width: 1920px;
+	height: 109px;
+	left: 0px;
+	top: -1px;
+	overflow: visible;
+}
+#n_1_ {
+	fill: rgba(245,245,245,1);
+}
+.n_1_ {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 108px;
+	left: 0px;
+	top: 0px;
+}
+#Text_bc {
+	left: 141px;
+	top: 46px;
+	position: absolute;
+	overflow: visible;
+	width: 463px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Meiryo;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 42px;
+	color: rgba(58,58,58,1);
+}
+#Home {
+	filter: drop-shadow(3px 4px 6px rgba(0, 0, 0, 0.161));
+	left: 1253px;
+	top: 79px;
+	position: absolute;
+	overflow: visible;
+	width: 77px;
+	white-space: nowrap;
+	line-height: 70px;
+	margin-top: -20px;
+	text-align: left;
+	font-family: HGPGothicM;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(58,58,58,1);
+	letter-spacing: 0.2px;
+	text-transform: uppercase;
+}
+#MyWork {
+	filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+	left: 1353px;
+	top: 79px;
+	position: absolute;
+	overflow: visible;
+	width: 125px;
+	white-space: nowrap;
+	line-height: 70px;
+	margin-top: -20px;
+	text-align: left;
+	font-family: HGPGothicM;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(58,58,58,1);
+	letter-spacing: 0.2px;
+	text-transform: uppercase;
+}
+#PastTime {
+	filter: drop-shadow(0px 4px 6px rgba(0, 0, 0, 0.161));
+	left: 1501px;
+	top: 79px;
+	position: absolute;
+	overflow: visible;
+	width: 137px;
+	white-space: nowrap;
+	line-height: 70px;
+	margin-top: -20px;
+	text-align: left;
+	font-family: HGPGothicM;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(58,58,58,1);
+	letter-spacing: 0.2px;
+	text-transform: uppercase;
+}
+#n_021_Twitter_logo_-_black {
+	position: absolute;
+	width: 41px;
+	height: 34px;
+	left: 1668px;
+	top: 75px;
+	overflow: visible;
+}
+#github-mark {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 1739px;
+	top: 69px;
+	overflow: visible;
+}
+#footer {
+	position: absolute;
+	width: 1920px;
+	height: 108px;
+	left: 0px;
+	top: 2052px;
+	overflow: visible;
+}
+#n_3 {
+	fill: rgba(245,245,245,1);
+}
+.n_3 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 108px;
+	left: 0px;
+	top: 0px;
+}
+#n_2023_ {
+	left: 895px;
+	top: 41px;
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	line-height: 80px;
+	margin-top: -30px;
+	text-align: left;
+	font-family: Yu Gothic UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Coming_Soon {
+	left: 624px;
+	top: 1159px;
+	position: absolute;
+	overflow: visible;
+	width: 281px;
+	white-space: nowrap;
+	line-height: 80px;
+	margin-top: -19px;
+	text-align: center;
+	font-family: Yu Gothic UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 42px;
+	color: rgba(112,112,112,1);
+}
